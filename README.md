@@ -1,4 +1,4 @@
 # DL_final_Calorie
-'''CMD=
+'''py=
 git clone github.com/MaliquyChen/DL_final_Calorie
 '''
